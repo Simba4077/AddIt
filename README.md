@@ -27,16 +27,16 @@ Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or 
    - Go to https://makersuite.google.com/ and get a Gemini API key
    - Copy your key and either hardcode it (not recommended if you push) or use a .env file
 
-      Using .env file:
-         - In your .env file: `GEMINI_KEY=your_api_key_here`
-         - In app.py: `from dotenv import load_dotenv`
-                       `load_dotenv()`
-                       `GEMINI_KEY = os.getenv("GEMINI_KEY")` #use this to replace the line `GEMINI_KEY = "place_api_key_here"`
-
-       Hardcode (not recommended):
-         - Simply place API key at the line: `GEMINI_KEY = "place_api_key_here"` in app.py
-6. Start the backend in one terminal using `python app.py` which will run the Flask API
-7. Start the frontend in another terminal with `python -m streamlit run streamlit_app.py`
+      Using .env file:   
+         - In your .env file: `GEMINI_KEY=your_api_key_here`  
+         - In app.py: `from dotenv import load_dotenv`  
+                       `load_dotenv()`  
+                       `GEMINI_KEY = os.getenv("GEMINI_KEY")` #use this to replace the line `GEMINI_KEY = "place_api_key_here"`  
+  
+       Hardcode (not recommended):  
+         - Simply place API key at the line: `GEMINI_KEY = "place_api_key_here"` in app.py  
+6. Start the backend in one terminal using `python app.py` which will run the Flask API  
+7. Start the frontend in another terminal with `python -m streamlit run streamlit_app.py`  
 
      
    
