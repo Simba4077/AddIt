@@ -1,6 +1,6 @@
 Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or upload a PNG or JPG image of a poster and extract details of the event, which can then be uploaded to your own Google Calendar  
 
-🚀 Features
+Features
 - Upload or capture event posters.
 - Extracts title, date, time, location, and description using Gemini Vision.
 - Editable form to tweak the extracted event details.
@@ -9,7 +9,7 @@ Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or 
 
 
 
-📦 Setup Instructions  
+Setup Instructions  
 1. Clone the repo and cd into project directory
 2. Install requirements
    `# (optional) create a virtual env`
@@ -29,10 +29,10 @@ Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or 
 
       Using .env file:   
          - In your .env file: `GEMINI_KEY=your_api_key_here`  
-         - In app.py:
-       `from dotenv import load_dotenv`  
-                       `load_dotenv()`  
-                       `GEMINI_KEY = os.getenv("GEMINI_KEY")` #use this to replace the line `GEMINI_KEY = "place_api_key_here"`  
+         - In app.py:  
+         `from dotenv import load_dotenv`  
+      `load_dotenv()`  
+             `GEMINI_KEY = os.getenv("GEMINI_KEY")` #use this to replace the line `GEMINI_KEY = "place_api_key_here"`  
   
        Hardcode (not recommended):  
          - Simply place API key at the line: `GEMINI_KEY = "place_api_key_here"` in app.py  
