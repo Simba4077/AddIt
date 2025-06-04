@@ -8,7 +8,7 @@ Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or 
 - Google OAuth2 Sign-in (coming soon in mobile version).
 
 🏗️ Architecture
-Frontend	                      Backend	                    External APIs
+Frontend                        Backend	                    External APIs
 Streamlit (UI)	                Flask (app.py)	            Gemini 1.5 Flash
 File uploader / webcam	        /extract endpoint	          Google Calendar API
 Editable form for events      	/create endpoint
