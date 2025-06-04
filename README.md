@@ -12,10 +12,10 @@ Features
 Setup Instructions  
 1. Clone the repo and cd into project directory
 2. Install requirements
-   `# (optional) create a virtual env`
-   `source venv/bin/activate #or venv\Scripts\activate for Windows`
-   `# install dependencies`
-   `pip install -r requirements.txt`
+   `# (optional) create a virtual env`  
+   `source venv/bin/activate #or venv\Scripts\activate for Windows`  
+   `# install dependencies`  
+   `pip install -r requirements.txt`  
 3. Set up Google Calendar API
     - Go to https://console.cloud.google.com/
     - Create new project, enable Google API for your project
