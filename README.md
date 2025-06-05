@@ -2,7 +2,7 @@
 <h4>A streamlit-based webapp that allows you to snap or upload a PNG or JPG image of a poster and extract details of the event, which can then be uploaded to your own Google Calendar  </h4>
 
 
-<h3>Features</h3>
+Features
 - Upload or capture event posters.
 - Extracts title, date, time, location, and description using Gemini.
 - Make edits after Gemini extracts details.
