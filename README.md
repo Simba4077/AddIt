@@ -13,7 +13,6 @@ Features
 
       
 Preview:
-![image](https://github.com/user-attachments/assets/53b1e05a-0a5d-46a3-8b81-ce1267855670)
 ![image](https://github.com/user-attachments/assets/9bbc0ea4-5b7f-4844-87f3-e0b5008f8153)
 ![image](https://github.com/user-attachments/assets/b169a55c-c997-456c-9556-419f2e7ba7ce)
 
