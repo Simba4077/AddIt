@@ -22,11 +22,11 @@
 
 
 
-<h3>Setup Instructions</h3>  
-1. Clone the repo and cd into project directory
-2. Install requirements:     
-   `# (optional) create a virtual env`  
-   `source venv/bin/activate #or venv\Scripts\activate for Windows`  
+<h3>Setup Instructions</h3>   
+1. Clone the repo and cd into project directory  
+2. Install requirements:       
+   `# (optional) create a virtual env`    
+   `source venv/bin/activate #or venv\Scripts\activate for Windows`    
    `# install dependencies`  
    `pip install -r requirements.txt`  
 3. Set up Google Calendar API
