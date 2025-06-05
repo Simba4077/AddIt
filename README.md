@@ -1,6 +1,8 @@
-Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or upload a PNG or JPG image of a poster and extract details of the event, which can then be uploaded to your own Google Calendar  
+<h1>AddIt</h1>
+<h4>A streamlit-based webapp that allows you to snap or upload a PNG or JPG image of a poster and extract details of the event, which can then be uploaded to your own Google Calendar  </h4>
 
-Features
+
+<h3>Features</h3>
 - Upload or capture event posters.
 - Extracts title, date, time, location, and description using Gemini.
 - Make edits after Gemini extracts details.
@@ -20,7 +22,7 @@ Features
 
 
 
-Setup Instructions  
+<h3>Setup Instructions</h3>  
 1. Clone the repo and cd into project directory
 2. Install requirements:     
    `# (optional) create a virtual env`  
