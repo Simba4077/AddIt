@@ -8,7 +8,7 @@ Features
 - Google OAuth2 Sign-in (coming soon in mobile version).
 
 
-<h3>📷 Preview</h3>
+<h3>App Preview</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9bbc0ea4-5b7f-4844-87f3-e0b5008f8153" alt="Poster Upload Preview" width="400"/>
@@ -17,12 +17,6 @@ Features
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b169a55c-c997-456c-9556-419f2e7ba7ce" alt="Extracted Event Form Preview" width="400"/>
 </p>
-
-
-      
-Preview:
-![image](https://github.com/user-attachments/assets/9bbc0ea4-5b7f-4844-87f3-e0b5008f8153)
-![image](https://github.com/user-attachments/assets/b169a55c-c997-456c-9556-419f2e7ba7ce)
 
 
 
