@@ -2,8 +2,8 @@ Basic prototype for AddIt - a streamlit-based webapp that allows you to snap or 
 
 Features
 - Upload or capture event posters.
-- Extracts title, date, time, location, and description using Gemini Vision.
-- Editable form to tweak the extracted event details.
+- Extracts title, date, time, location, and description using Gemini.
+- Make edits after Gemini extracts details.
 - Save events directly to your Google Calendar.
 - Google OAuth2 Sign-in (coming soon in mobile version).
 
