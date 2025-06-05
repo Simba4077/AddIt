@@ -8,6 +8,10 @@ Features
 - Google OAuth2 Sign-in (coming soon in mobile version).
 
 
+<h3>App Preview</h3>
+<p align="center">
+  <img src="[screenshot.png](https://github.com/user-attachments/assets/9bbc0ea4-5b7f-4844-87f3-e0b5008f8153)" alt="App Screenshot" width="400"/>
+</p>
 
 
 
