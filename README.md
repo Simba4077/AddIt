@@ -22,7 +22,7 @@
 
 
 
-<h3>Setup Instructions</h3>   
+Setup Instructions    
 1. Clone the repo and cd into project directory  
 2. Install requirements:       
    `# (optional) create a virtual env`    
